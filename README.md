@@ -36,49 +36,6 @@ I enjoy turning complex business requirements into clean, maintainable, and high
 
 ---
 
-# 🚀 Featured Projects
-
----
-
-## 🏨 Bekur Hotel & Hostel Management System (HMS)
-
-Enterprise-grade multi-property SaaS hotel management platform.
-
-### Highlights
-- Architected a multi-tenant booking system supporting concurrent reservation transactions
-- Designed 30+ normalized PostgreSQL models with indexing and optimistic locking
-- Reduced query latency by 60% through database optimization
-- Built hierarchical RBAC with JWT authentication for property-scoped access
-- Integrated OTA synchronization with Booking.com, Expedia, and Agoda
-- Reduced external API calls by 85% using debounced event pipelines
-- Automated revenue calculations and financial reconciliation workflows
-
-### Tech Stack
-`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Next.js` `Event-Driven Architecture`
-
-🔗 Repository: https://github.com/Bekur-Technologies/bekur-hms-backend
-
----
-
-## 👥 HR Management System (HRMS)
-
-Enterprise HR and workforce management platform designed for scalable employee operations.
-
-### Features
-- Employee management and onboarding workflows
-- Role-based access control and authentication
-- Department and organizational structure management
-- Payroll and employee record management
-- Secure API architecture with scalable backend services
-- Responsive admin dashboard and modern UI
-
-### Tech Stack
-`Next.js` `NestJS` `TypeScript` `PostgreSQL` `GraphQL` `Prisma`
-
-🔗 Repository: https://github.com/Bekur-Technologies/hrms-front
-
----
-
 # 📈 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathnael-chilot&show_icons=true&theme=github_dark" />
