@@ -109,9 +109,9 @@ Bahir Dar University
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-- 💻 GitHub: YOUR_GITHUB_URL
+- 💼 LinkedIn: https://www.linkedin.com/in/nathnael-chilot-5b0791250
+- 🌐 Portfolio: https://www.linkedin.com/in/nathnael-chilot-5b0791250
+- 💻 GitHub: https://github.com/nathnael-chilot/
 - 📧 Email: chilotnathnael@gmail.com
 
 ---
