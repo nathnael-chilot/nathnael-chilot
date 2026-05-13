@@ -1,30 +1,119 @@
-<h1 align="center">Hi 👋, I'm nathnael chilot</h1>
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+# Hi, I'm Nathnael Chilot 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathnael-chilot&label=Profile%20views&color=0e75b6&style=flat" alt="nathnael-chilot" /> </p>
+Full-Stack Developer focused on building scalable backend systems, enterprise SaaS platforms, and modern web applications using TypeScript, NestJS, Next.js, and PostgreSQL.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathnael-chilot" alt="nathnael-chilot" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Flutter**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://nathnaelchilot.vercel.app/](https://nathnaelchilot.vercel.app/)
+I’m a results-driven Full-Stack Web Developer with strong experience building, deploying, and maintaining scalable web applications using modern technologies and DevOps workflows.
 
-- 💬 Ask me about **MERN**
+I specialize in:
+- Designing secure backend architectures
+- Building scalable REST and GraphQL APIs
+- Developing enterprise SaaS platforms
+- PostgreSQL database design and optimization
+- CI/CD automation and Linux deployments
+- Solving real-world production issues
 
-- 📫 How to reach me **chilotnathnael@gmail.com**
+I enjoy turning complex business requirements into clean, maintainable, and high-performance systems.
 
-- 📄 Know about my experiences [https://www.goodcv.com/cv/8bad262bf2cbe0998600fe44b4df8fe1](https://www.goodcv.com/cv/8bad262bf2cbe0998600fe44b4df8fe1)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nathnael chilot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathnael chilot" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathnael-chilot&show_icons=true&locale=en&layout=compact" alt="nathnael-chilot" /></p>
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathnael-chilot&show_icons=true&locale=en" alt="nathnael-chilot" /></p>
+### Database
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathnael-chilot&" alt="nathnael-chilot" /></p>
+### DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=docker,nginx,linux,git,github)
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🏨 Bekur Hotel & Hostel Management System (HMS)
+
+Enterprise-grade multi-property SaaS hotel management platform.
+
+### Highlights
+- Architected a multi-tenant booking system supporting concurrent reservation transactions
+- Designed 30+ normalized PostgreSQL models with indexing and optimistic locking
+- Reduced query latency by 60% through database optimization
+- Built hierarchical RBAC with JWT authentication for property-scoped access
+- Integrated OTA synchronization with Booking.com, Expedia, and Agoda
+- Reduced external API calls by 85% using debounced event pipelines
+- Automated revenue calculations and financial reconciliation workflows
+
+### Tech Stack
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Next.js` `Event-Driven Architecture`
+
+🔗 Repository: https://github.com/Bekur-Technologies/bekur-hms-backend
+
+---
+
+## 👥 HR Management System (HRMS)
+
+Enterprise HR and workforce management platform designed for scalable employee operations.
+
+### Features
+- Employee management and onboarding workflows
+- Role-based access control and authentication
+- Department and organizational structure management
+- Payroll and employee record management
+- Secure API architecture with scalable backend services
+- Responsive admin dashboard and modern UI
+
+### Tech Stack
+`Next.js` `NestJS` `TypeScript` `PostgreSQL` `GraphQL` `Prisma`
+
+🔗 Repository: https://github.com/Bekur-Technologies/hrms-front
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathnael-chilot&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael-chilot&layout=compact)
+
+---
+
+# 🎯 Current Focus
+
+Currently focused on:
+- Enterprise SaaS platforms
+- Scalable backend systems
+- Event-driven architecture
+- Fintech and business automation systems
+- Production infrastructure and DevOps workflows
+
+---
+
+# 🎓 Education
+
+### Bachelor of Software Engineering
+Bahir Dar University  
+📍 Bahir Dar, Ethiopia  
+📅 2019 – 2024
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💻 GitHub: YOUR_GITHUB_URL
+- 📧 Email: chilotnathnael@gmail.com
+
+---
+
+⭐️ Open to Full-Stack and Backend Engineering opportunities.
