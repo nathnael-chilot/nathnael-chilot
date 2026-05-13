@@ -81,9 +81,9 @@ Enterprise HR and workforce management platform designed for scalable employee o
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathnael-chilot&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathnael-chilot&show_icons=true&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael-chilot&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael-chilot&layout=compact&theme=github_dark" />
 
 ---
 
